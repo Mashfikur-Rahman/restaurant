@@ -1,15 +1,10 @@
+// objective: modern restaurent
+// Author: Mashfikur Rahman
+// Date: 4th March 2022
+
 import React from 'react';
 import './App.css';
 import Navbar from './components/Navbar/Navbar';
-// import Header from './container/Header/Header';
-// import AboutUs from './container/AboutUs/AboutUs';
-// import SpecialMenu from './container/Menu/SpecialMenu';
-// import Chef from './container/Chef/Chef';
-// import Intro from './container/Intro/Intro';
-// import Laurels from './container/Laurels/Laurels';
-// import Gallery from './container/Gallery/Gallery';
-// import Findus from './container/Findus/Findus';
-// import Footer from './container/Footer/Footer';
 
 import { Header, AboutUs, SpecialMenu, Chef, Intro, Laurels, Gallery, Findus, Footer } from './container';
 
